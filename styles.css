@@ -1,13 +1,13 @@
-*{
 
-}
 .geral{
     background-color: blueviolet;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .geral:hover{
 
     background-color: rgb(52, 11, 90);
     align-items: center;
+    flex-wrap: wrap;
 }
